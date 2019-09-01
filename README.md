@@ -11,3 +11,9 @@ pip install https://pypi.python.org/packages/da/06/bd3e241c4eb0a662914b3b4875fc5
 3. Pip install requirements using the command below.
 
 pip install -r requirements.txt
+
+
+
+
+
+### Source: https://github.com/ageitgey/face_recognition
